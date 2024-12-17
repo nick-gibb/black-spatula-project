@@ -12,3 +12,13 @@ Please carefully review the following research article (provided in full text be
 
 If no errors are found, summarize the checks you performed and confirm that the numbers appear consistent and plausible. Aim to be as thorough, clear, and evidence-based as possible in your analysis.
 ```
+
+### Prompt 2
+
+```markdown
+<raw-text> 
+{raw_text} 
+</raw-text>
+
+Utilize the provided image to format and fill in the missing visual description that the raw text currently lacks. Avoid any changes to the content itself because the accuracy is vital.
+```
