@@ -24,3 +24,6 @@ ENV/
 
 # Logs
 *.log
+
+# Local env files
+.env
